@@ -1,1 +1,1 @@
-# MST-HeapSort-Assignment
+# MST HeapSort Assignment
